@@ -11,6 +11,9 @@
   },
   "pluginOptions": {},
   "attributes": {
+    "Category": {
+      "type": "string"
+    },
     "Title": {
       "type": "string"
     },
